@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>I am freelancer at <a href="https://iste.edu.tr/">Iskenderun Technical University
+<p><em>I am freelancer at <a href="https://iste.edu.tr/">bionluk.com
 </a><img src="https://files.sikayetvar.com/lg/cmp/45/45631.png?1522650125" width="30"> 
 </em></p>
 
