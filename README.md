@@ -4,8 +4,9 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>I am freelancer at <a href="https://bionluk.com/samettunay1">bionluk.com
-</a></em></p>
+<p><em>I am freelancer at <a href="https://bionluk.com/samettunay1">bionluk.com</a>
+<img src=https://4.bp.blogspot.com/-lfIfHi6Jits/V9SYIdmAkqI/AAAAAAAABIw/8XJWRAOA_zIUfGUkprGxr2QEAK5SUiW7gCK4B/s400/bionluk-logo_175x175.png width="30"> 
+</em></p>
 
 [![Linkedin: samettunay](https://img.shields.io/badge/-samettunay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samet-tunay-774bb91b0/)](https://www.linkedin.com/in/samet-tunay-774bb91b0/)
 ![GitHub followers](https://img.shields.io/github/followers/samettunay?label=Follow&style=social)
