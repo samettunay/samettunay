@@ -17,7 +17,7 @@
 ```c#
 var samet = new Dictionary<string, string>(){
 	{"pronouns", "Hi, Him"},
-	{"code", "C#, Python, Java, C++"},
+	{"code", "C#, Python, Java"},
 	{"databases", "MySQL"}
 };
 ```
