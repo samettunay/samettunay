@@ -4,7 +4,7 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<p><em>I am freelancer at <a href="https://bionluk.com/samettunay1">bionluk.com
+<p><em>I am Mid-Level Software Engineer at <a href="https://www.sekerbank.com.tr/">Şekerbank
 </a><img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="50"> 
 </em></p>
 
