@@ -39,6 +39,8 @@ var samet = new
     {
         "Java",
         "Spring Boot",
+        "C#",
+        ".NET",
         "REST APIs",
         "Kafka",
         "RabbitMQ",
